@@ -1,0 +1,21 @@
+h1 {
+  color: hotpink;
+  font-family: cursive;
+}
+
+.title {
+    color: red;
+    font-family: cursive;
+}
+
+.author {
+    color: blue;
+}
+
+.years {
+    color: wheat;
+}
+
+.genre {
+    color: green;
+}
